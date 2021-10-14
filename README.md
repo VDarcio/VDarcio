@@ -1,4 +1,5 @@
 ### Hello I'm Victor Alvarenga 👋
+#### Selft-Taught IOS Developer and in love with Tech, currently living in Lisbon, Portugal
 
 [![Cravyy](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pt/app/cravyy/id1589307279?l=en)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alvarenga-804432223/)
@@ -10,4 +11,4 @@
 ![VDarcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDarcio&show_icons=true&theme=dracula)
 
 
-Selft-Taught IOS Developer and in love with Tech, currently living in Lisbon, Portugal
+
